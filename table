@@ -309,4 +309,4 @@
         }
     }
 }
-loadstring(game:HttpGet("https://raw.githubusercontent.com/howyougetcracked/lithium/main/raw"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/yukiiontop/lithiumcracked/main/raw"))()
